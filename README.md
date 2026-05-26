@@ -259,6 +259,9 @@ You should see:
 ```bash
 40K records inserted
 ```
+## Live Demo
+
+[View Project](https://dynamic-comparision-table.vercel.app/)
 
 ## Output
 1. Output of one selected data 
