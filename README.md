@@ -260,6 +260,20 @@ You should see:
 40K records inserted
 ```
 
+## Output
+1. Output of one selected data 
+
+https://github.com/user-attachments/assets/5e981122-5910-4977-8354-a8c1adc5988c
+
+2. Output when two data is selected
+
+https://github.com/user-attachments/assets/a61c885b-0fe9-4733-baff-cf477d5cf796
+
+3. Output when one product have two values
+
+   <img width="1430" height="646" alt="Capture" src="https://github.com/user-attachments/assets/56bbada7-c06a-4912-91a7-ce143e76a3c5" />
+   <img width="1485" height="806" alt="Capture1" src="https://github.com/user-attachments/assets/9d24fa2f-4a7e-4214-8ade-529ee91052b7" />
+
 ---
 
 # Author
