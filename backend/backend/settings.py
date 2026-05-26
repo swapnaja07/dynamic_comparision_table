@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-pkh89ut7a%d4!yx2m_cu=0x1n7*6n^s!^fols)_5e4nc0*+6(-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dynamic-comparision-table-1.onrender.com',]
 
 
 # Application definition
